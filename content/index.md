@@ -1,7 +1,14 @@
 ---
 title: Welcome to Void Ink
 ---
+
 Hello! I'm **Aditya**, a passionate programmer and creator based in Navi Mumbai, Maharashtra. Here, you'll find a collection of my learning journey, tutorials, cheat sheets, and insights into the world of technology.
+
+## Navigation
+
+- [Resources](./Resources) - Curated notes, cheat sheets, and useful links.
+- [Insights](./Insights) - Tech news, explanations of new topics, and updates in the tech world.
+- [P-vault](./P-vault) - My personal space where I share experiences and reflections.
 
 ## About Me
 
@@ -26,4 +33,4 @@ Feel free to explore, learn, and collaborate. I'm always open to new ideas and d
 - [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-38ba35310/)
 - [Twitter](https://x.com/adtytiw)
 
-Sayonara !!
+Sayonara!!
