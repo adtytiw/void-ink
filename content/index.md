@@ -6,9 +6,8 @@ Hello! I'm **Aditya**, a passionate programmer and creator based in Navi Mumbai,
 
 ## Navigation
 
-- [Resources](./Resources) - Curated notes, cheat sheets, and useful links.
-- [Insights](./Insights) - Tech news, explanations of new topics, and updates in the tech world.
-- [P-vault](./P-vault) - My personal space where I share experiences and reflections.
+- [Resources](./Resources) - Curated notes, New technologies I'm excited about and of course cheat sheets.
+- [P-vault](./P-vault) - My personal space where I share Random Notes.
 
 ## About Me
 
